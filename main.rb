@@ -1,1 +1,1 @@
-print "Hello"
+puts "Vinh dep trai"
